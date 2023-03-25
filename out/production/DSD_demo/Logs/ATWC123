@@ -1,0 +1,18 @@
+14-02-2023 19:41:42 : Book movie tickets : ATWC123 ATWM140222 AVATAR 1 : Transfer : request sent for booking movie tickets
+14-02-2023 19:42:51 : Book movie tickets : ATWC123 ATWM140223 AVATAR 1 : Transfer : request sent for booking movie tickets
+14-02-2023 19:44:56 : get movie schedule : ATWC123 : Transfer : request sent for getting movie Schedule
+20-02-2023 17:46:21 : Book movie tickets : ATWC123 ATWM200223 AVATAR 12 : Transfer : request sent for booking movie tickets
+20-02-2023 17:47:38 : get movie schedule : ATWC123 : Transfer : request sent for getting movie Schedule
+20-02-2023 20:47:04 : Book movie tickets : ATWC123 ATWM200223 AVATAR 12 : Transfer : request sent for booking movie tickets
+20-02-2023 20:47:11 : get movie schedule : ATWC123 : Transfer : request sent for getting movie Schedule
+24-02-2023 17:49:43 : Book movie tickets : ATWC123 ATWM240223 AVATAR 12 : Transfer : request sent for booking movie tickets
+24-02-2023 17:50:53 : Book movie tickets : ATWC123 VERM240223 AVATAR 12 : Transfer : request sent for booking movie tickets
+24-02-2023 18:23:41 : Book movie tickets : ATWC123 ATWM240223 AVATAR 12 : Transfer : request sent for booking movie tickets
+24-02-2023 18:23:55 : Book movie tickets : ATWC123 VERM240223 AVATAR 12 : Transfer : request sent for booking movie tickets
+24-02-2023 18:39:09 : Book movie tickets : ATWC123 ATWM240223 AVATAR 12 : Transfer : request sent for booking movie tickets
+24-02-2023 18:39:33 : Book movie tickets : ATWC123 VERM240223 AVATAR 12 : Transfer : request sent for booking movie tickets
+24-02-2023 18:39:57 : get movie schedule : ATWC123 : Transfer : request sent for getting movie Schedule
+24-02-2023 18:40:24 : Book movie tickets : ATWC123 VERA240223 AVATAR 12 : Transfer : request sent for booking movie tickets
+24-02-2023 18:41:08 : Book movie tickets : ATWC123 VERE240223 AVATAR 12 : Transfer : request sent for booking movie tickets
+24-02-2023 18:41:25 : Book movie tickets : ATWC123 OUTM240223 AVATAR 12 : Transfer : request sent for booking movie tickets
+24-02-2023 18:47:34 : Book movie tickets : ATWC123 ATWM240223 12 12 : Transfer : request sent for booking movie tickets

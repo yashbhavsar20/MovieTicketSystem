@@ -1,0 +1,172 @@
+10-02-2023 13:35:14 : BOOK APPOINTEMENT : ATWC123456 : SUCSSES : Tickets Booked Successfully
+10-02-2023 13:40:09 : BOOK APPOINTEMENT : ATWC123456 : Failed : Tickets Not Booked
+10-02-2023 13:45:48 : getBookingSchedule : ATWC123456 : failed : No bookings found
+10-02-2023 13:46:58 : BOOK APPOINTEMENT : ATWC123456 : Failed : Tickets Not Booked
+10-02-2023 13:47:56 : BOOK APPOINTEMENT : ATWC123456 : SUCSSES : Tickets Booked Successfully
+10-02-2023 13:48:03 : getBookingSchedule : ATWC123456 : Success : Booking Schedule found
+10-02-2023 13:50:35 : cancelMovieTickets: : ATWM100223-ATWC123456 : Success : Tickets Cancelled
+10-02-2023 15:01:10 : addMovieSlots : ATWM120223 : Success : Movie slots added Successfully
+10-02-2023 15:43:24 : BOOK TICKETS BY ADMIN : ATWC123456 : SUCSSES : Tickets Booked Successfully
+10-02-2023 16:23:18 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123455 : Failed : Tickets not Booked.
+10-02-2023 18:44:26 : addMovieSlots : ATWM120223 : Success : Movie slots added Successfully
+10-02-2023 18:46:26 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : TRANSFER TO PORT6889
+10-02-2023 18:46:26 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : TRANSFER TO PORT6889
+10-02-2023 18:46:26 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : reply
+10-02-2023 18:46:26 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : reply
+10-02-2023 18:46:28 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : TRANSFER TO PORT6890
+10-02-2023 18:46:28 : ServerBookMovieTickets : VERC123456 : Failed : Tickets Not Booked.
+10-02-2023 18:46:28 : UDP DATA TRANSFER : TRANSFER FROMATW : Failed : reply
+10-02-2023 18:46:28 : BOOK TICKETS TRANSFERED TO ATWServer : VERC123456 : Failed : Tickets Not Booked
+10-02-2023 18:48:02 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : TRANSFER TO PORT6889
+10-02-2023 18:48:02 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : TRANSFER TO PORT6889
+10-02-2023 18:48:02 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : reply
+10-02-2023 18:48:02 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : reply
+10-02-2023 18:48:04 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : TRANSFER TO PORT6887
+10-02-2023 18:48:04 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : reply
+10-02-2023 18:48:04 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123456 : Sucess : Tickets Booked
+10-02-2023 18:56:03 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : TRANSFER TO PORT6889
+10-02-2023 18:56:03 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : TRANSFER TO PORT6889
+10-02-2023 18:56:03 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : reply
+10-02-2023 18:56:03 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : reply
+10-02-2023 18:56:05 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : TRANSFER TO PORT6887
+10-02-2023 18:56:05 : UDP DATA TRANSFER : TRANSFER FROMATW : TRANSFER SUCCESS : reply
+10-02-2023 18:56:05 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123456 : Sucess : Tickets Booked
+10-02-2023 19:04:14 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123456 : Sucess : Tickets Booked
+10-02-2023 19:46:15 : BOOK TICKETS : ATWC123456 : SUCSSES : Tickets Booked Successfully
+10-02-2023 19:48:41 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123456 : Sucess : Tickets Booked
+10-02-2023 19:49:48 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123456 : Sucess : Tickets Booked
+10-02-2023 19:50:43 : BOOK TICKETS : ATWC123456 : SUCSSES : Tickets Booked Successfully
+10-02-2023 19:50:54 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123456 : Sucess : Tickets Booked
+10-02-2023 19:51:42 : BOOK TICKETS : ATWC123456 : SUCSSES : Tickets Booked Successfully
+10-02-2023 19:52:37 : BOOK TICKETS : ATWC123456 : SUCSSES : Tickets Booked Successfully
+10-02-2023 19:52:45 : BOOK TICKETS : ATWC123456 : Failed : Tickets Not Booked
+10-02-2023 19:57:10 : addMovieSlots : ATWM180223 : falied : Movie slots added
+10-02-2023 20:06:26 : BOOK TICKETS : ATWC123456 : SUCSSES : Tickets Booked Successfully
+10-02-2023 20:10:31 : BOOK TICKETS : ATWC123456 : SUCSSES : Tickets Booked Successfully
+10-02-2023 20:10:47 : cancelMovieTickets: : ATWM100223-ATWC123456 : Success : Tickets Cancelled
+10-02-2023 20:11:12 : BOOK TICKETS : ATWC123456 : Failed : Tickets Not Booked
+10-02-2023 20:11:30 : BOOK TICKETS : ATWC123456 : SUCSSES : Tickets Booked Successfully
+10-02-2023 20:47:41 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+10-02-2023 20:48:02 : BOOK TICKETS : ATWC34 : SUCSSES : Tickets Booked Successfully
+10-02-2023 20:49:19 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+10-02-2023 20:50:51 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+10-02-2023 20:51:07 : BOOK TICKETS : ATWC34 : SUCSSES : Tickets Booked Successfully
+14-02-2023 19:41:42 : BOOK TICKETS : ATWC123 : Failed : Tickets Not Booked
+14-02-2023 19:42:51 : BOOK TICKETS : ATWC123 : SUCSSES : Tickets Booked Successfully
+14-02-2023 19:43:37 : getBookingSchedule : ATWC12 : failed : No bookings found
+14-02-2023 19:44:56 : getBookingSchedule : ATWC123 : Success : Booking Schedule found
+14-02-2023 21:06:28 : addMovieSlots : ATWM250223 : falied : Movie slots added
+14-02-2023 21:06:48 : listMovieShowAvailability : AVATAR : Success : Movie shows listed Successfully
+20-02-2023 17:46:21 : BOOK TICKETS : ATWC123 : SUCSSES : Tickets Booked Successfully
+20-02-2023 17:47:11 : cancelMovieTickets: : ATWM200223-ATWC123 : Success : Tickets Cancelled
+20-02-2023 17:47:11 : BOOK TICKETS : ATWC123 : SUCSSES : Tickets Booked Successfully
+20-02-2023 17:47:38 : getBookingSchedule : ATWC123 : Success : Booking Schedule found
+20-02-2023 17:58:35 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+20-02-2023 17:59:27 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+20-02-2023 18:27:47 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+20-02-2023 18:58:41 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+20-02-2023 18:59:05 : cancelMovieTickets: : ATWM200223-ATWC12 : Success : Tickets Cancelled
+20-02-2023 18:59:07 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+20-02-2023 18:59:16 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+20-02-2023 19:02:51 : cancelMovieTickets: : VERM200223-ATWC12 : Failed : Tickets Not Cancelled
+20-02-2023 19:02:53 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Failed : Tickets Not Booked
+20-02-2023 19:11:12 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+20-02-2023 20:15:54 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+20-02-2023 20:16:34 : cancelMovieTickets: : VERM200223-ATWC12 : Failed : Tickets Not Cancelled
+20-02-2023 20:16:36 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Failed : Tickets Not Booked
+20-02-2023 20:19:01 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC23 : Failed : Tickets Not Booked
+20-02-2023 20:20:17 : BOOK TICKETS TRANSFERED TO VERServer : ATWC23 : Sucess : Tickets Booked
+20-02-2023 20:41:22 : ServerBookMovieTickets : OUTC12 : Failed : Tickets Not Booked.
+20-02-2023 20:42:01 : ServerBookMovieTickets : VERC2 : Failed : Tickets Not Booked.
+20-02-2023 20:43:09 : getBookingSchedule : VERC2 : Success : Booking Schedule found
+20-02-2023 20:46:33 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+20-02-2023 20:47:04 : BOOK TICKETS : ATWC123 : SUCSSES : Tickets Booked Successfully
+20-02-2023 20:47:11 : getBookingSchedule : ATWC123 : Success : Booking Schedule found
+20-02-2023 20:47:32 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC14 : Failed : Tickets Not Booked
+20-02-2023 20:49:35 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Failed : Tickets Not Booked
+20-02-2023 20:50:36 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Failed : Tickets Not Booked
+20-02-2023 20:57:01 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Failed : Tickets Not Booked
+20-02-2023 21:00:18 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Failed : Tickets Not Booked
+20-02-2023 21:08:21 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Failed : Tickets Not Booked
+20-02-2023 21:09:54 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Failed : Tickets Not Booked
+20-02-2023 21:16:43 : BOOK TICKETS TRANSFERED TO VERServer : ATWC89 : Sucess : Tickets Booked
+20-02-2023 21:17:24 : BOOK TICKETS TRANSFERED TO VERServer : ATWC89 : Sucess : Tickets Booked
+20-02-2023 21:17:53 : cancelMovieTickets: : VERM200223-ATWC89 : Failed : Tickets Not Cancelled
+20-02-2023 21:17:55 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC89 : Sucess : Tickets Booked
+20-02-2023 21:18:02 : getBookingSchedule : ATWC89 : Success : Booking Schedule found
+21-02-2023 20:47:45 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+21-02-2023 20:48:13 : cancelMovieTickets: : VERM210223-ATWC12 : Failed : Tickets Not Cancelled
+21-02-2023 20:48:15 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Sucess : Tickets Booked
+21-02-2023 20:48:23 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+21-02-2023 21:09:04 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+21-02-2023 21:10:25 : cancelMovieTickets: : VERM210223-ATWC12 : Failed : Tickets Not Cancelled
+21-02-2023 21:10:27 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Sucess : Tickets Booked
+21-02-2023 21:10:35 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+21-02-2023 21:15:34 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+21-02-2023 21:15:43 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+21-02-2023 21:16:19 : cancelMovieTickets: : VERM210223-ATWC12 : Failed : Tickets Not Cancelled
+21-02-2023 21:22:10 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+21-02-2023 21:22:24 : cancelMovieTickets: : VERM210223-ATWC12 : Failed : Tickets Not Cancelled
+21-02-2023 21:25:32 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+21-02-2023 21:26:42 : cancelMovieTickets: : VERM210223-ATWC12 : Success : Tickets Cancelled
+21-02-2023 21:26:44 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Sucess : Tickets Booked
+21-02-2023 21:26:51 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+21-02-2023 21:35:41 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Failed : Tickets Not Booked
+21-02-2023 21:50:52 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+22-02-2023 01:24:40 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+22-02-2023 01:25:19 : cancelMovieTickets: : VERM220223-ATWC12 : Success : Tickets Cancelled
+22-02-2023 01:25:19 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+22-02-2023 01:25:25 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+22-02-2023 01:26:11 : cancelMovieTickets: : ATWM220223-ATWC12 : Success : Tickets Cancelled
+22-02-2023 01:26:13 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+22-02-2023 01:26:20 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+22-02-2023 01:27:35 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+22-02-2023 01:28:18 : cancelMovieTickets: : VERM220223-ATWC12 : Success : Tickets Cancelled
+22-02-2023 01:28:18 : BOOK TICKETS : ATWC12 : Failed : Tickets Not Booked
+22-02-2023 01:28:27 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+22-02-2023 01:31:26 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+22-02-2023 01:31:52 : cancelMovieTickets: : VERM220223-ATWC12 : Success : Tickets Cancelled
+22-02-2023 01:31:52 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+22-02-2023 01:32:03 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+22-02-2023 01:32:24 : cancelMovieTickets: : ATWM220223-ATWC12 : Success : Tickets Cancelled
+22-02-2023 01:32:26 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Failed : Tickets Not Booked
+22-02-2023 01:38:36 : BOOK TICKETS : ATWC12 : Failed : Tickets Not Booked
+22-02-2023 01:38:52 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+22-02-2023 01:42:01 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+22-02-2023 01:42:21 : cancelMovieTickets: : ATWM220223-ATWC12 : Success : Tickets Cancelled
+22-02-2023 01:42:24 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+22-02-2023 01:42:30 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+22-02-2023 01:42:53 : cancelMovieTickets: : VERM220223-ATWC12 : Success : Tickets Cancelled
+22-02-2023 01:42:53 : BOOK TICKETS : ATWC12 : Failed : Tickets Not Booked
+22-02-2023 01:43:21 : cancelMovieTickets: : VERM220223-ATWC12 : Failed : Tickets Not Cancelled
+22-02-2023 01:43:21 : BOOK TICKETS : ATWC12 : SUCSSES : Tickets Booked Successfully
+22-02-2023 01:43:27 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+22-02-2023 19:23:54 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Sucess : Tickets Booked
+24-02-2023 17:49:43 : BOOK TICKETS : ATWC123 : SUCSSES : Tickets Booked Successfully
+24-02-2023 17:50:51 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123 : Sucess : Tickets Booked
+24-02-2023 18:22:37 : BOOK TICKETS : ATWC10 : SUCSSES : Tickets Booked Successfully
+24-02-2023 18:22:58 : BOOK TICKETS TRANSFERED TO VERServer : ATWC10 : Sucess : Tickets Booked
+24-02-2023 18:23:41 : BOOK TICKETS : ATWC123 : SUCSSES : Tickets Booked Successfully
+24-02-2023 18:23:53 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123 : Sucess : Tickets Booked
+24-02-2023 18:33:17 : BOOK TICKETS TRANSFERED TO VERServer : ATWC2 : Sucess : Tickets Booked
+24-02-2023 18:39:09 : BOOK TICKETS : ATWC123 : SUCSSES : Tickets Booked Successfully
+24-02-2023 18:39:31 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123 : Sucess : Tickets Booked
+24-02-2023 18:39:57 : getBookingSchedule : ATWC123 : Success : Booking Schedule found
+24-02-2023 18:40:22 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123 : Sucess : Tickets Booked
+24-02-2023 18:41:06 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123 : Sucess : Tickets Booked
+24-02-2023 18:42:24 : cancelMovieTickets: : VERM240223-ATWC123 : Success : Tickets Cancelled
+24-02-2023 18:42:28 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC123 : Sucess : Tickets Booked
+24-02-2023 18:47:34 : BOOK TICKETS : ATWC123 : Failed : Tickets Not Booked
+24-02-2023 18:49:36 : cancelMovieTickets: : ATWM240223-ATWC123 : Success : Tickets Cancelled
+06-03-2023 16:54:37 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC12 : Sucess : Tickets Booked
+13-03-2023 18:21:05 : listMovieShowAvailability : AVATAR : Success : Movie shows listed Successfully
+13-03-2023 18:22:12 : BOOK TICKETS TRANSFERED TO VERServer : ATWC123 : Sucess : Tickets Booked
+13-03-2023 18:45:05 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC1 : Sucess : Tickets Booked
+13-03-2023 18:46:46 : BOOK TICKETS TRANSFERED TO VERServer : ATWC12 : Sucess : Tickets Booked
+22-03-2023 20:33:38 : BOOK TICKETS TRANSFERED TO VERServer : ATWC1098 : Sucess : Tickets Booked
+22-03-2023 20:34:14 : cancelMovieTickets: : VERM220323-ATWC1098 : Success : Tickets Cancelled
+22-03-2023 20:34:14 : BOOK TICKETS : ATWC1098 : SUCSSES : Tickets Booked Successfully
+22-03-2023 20:34:49 : BOOK TICKETS TRANSFERED TO OUTServer : ATWC1098 : Sucess : Tickets Booked
+22-03-2023 20:35:51 : cancelMovieTickets: : OUTA220323-ATWC1098 : Success : Tickets Cancelled
+22-03-2023 20:35:55 : BOOK TICKETS TRANSFERED TO VERServer : ATWC1098 : Sucess : Tickets Booked
+22-03-2023 20:36:18 : getBookingSchedule : ATWC1098 : Success : Booking Schedule found

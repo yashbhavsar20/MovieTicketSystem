@@ -1,0 +1,74 @@
+10-02-2023 16:11:12 : addMovieSlots : VERM120223 : Success : Movie slots added Successfully
+10-02-2023 18:48:04 : ServerBookMovieTickets : ATWC123456 : Success : Tickets Booked.
+10-02-2023 18:56:05 : ServerBookMovieTickets : ATWC123456 : Success : Tickets Booked.
+10-02-2023 19:04:14 : ServerBookMovieTickets : ATWC123456 : Success : Tickets Booked.
+10-02-2023 19:48:41 : ServerBookMovieTickets : ATWC123456 : Success : Tickets Booked.
+10-02-2023 19:49:48 : ServerBookMovieTickets : ATWC123456 : Success : Tickets Booked.
+10-02-2023 19:50:54 : ServerBookMovieTickets : ATWC123456 : Success : Tickets Booked.
+10-02-2023 20:49:17 : getBookingSchedule : ATWC12 : failed : No bookings found
+14-02-2023 19:43:35 : getBookingSchedule : ATWC12 : failed : No bookings found
+14-02-2023 19:44:54 : getBookingSchedule : ATWC123 : failed : No bookings found
+20-02-2023 17:47:36 : getBookingSchedule : ATWC123 : failed : No bookings found
+20-02-2023 17:59:25 : getBookingSchedule : ATWC12 : failed : No bookings found
+20-02-2023 18:59:07 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+20-02-2023 18:59:14 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+20-02-2023 19:02:49 : Server cancel movie ticket : ATWC12 : Failed : Tickets Not Cancelled.
+20-02-2023 19:11:12 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+20-02-2023 20:15:54 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+20-02-2023 20:16:32 : Server cancel movie ticket : ATWC12 : Failed : Tickets Not Cancelled.
+20-02-2023 20:20:17 : ServerBookMovieTickets : ATWC23 : Success : Tickets Booked.
+20-02-2023 20:42:01 : BOOK TICKETS TRANSFERED TO ATWServer : VERC2 : Failed : Tickets Not Booked
+20-02-2023 20:43:11 : getBookingSchedule : VERC2 : failed : No bookings found
+20-02-2023 20:46:33 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+20-02-2023 20:47:09 : getBookingSchedule : ATWC123 : failed : No bookings found
+20-02-2023 21:16:43 : ServerBookMovieTickets : ATWC89 : Success : Tickets Booked.
+20-02-2023 21:17:24 : ServerBookMovieTickets : ATWC89 : Success : Tickets Booked.
+20-02-2023 21:17:51 : Server cancel movie ticket : ATWC89 : Failed : Tickets Not Cancelled.
+20-02-2023 21:18:00 : getBookingSchedule : ATWC89 : Success : Booking Schedule found
+21-02-2023 20:47:45 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+21-02-2023 20:48:11 : Server cancel movie ticket : ATWC12 : Failed : Tickets Not Cancelled.
+21-02-2023 20:48:21 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+21-02-2023 21:09:04 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+21-02-2023 21:10:23 : Server cancel movie ticket : ATWC12 : Failed : Tickets Not Cancelled.
+21-02-2023 21:10:33 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+21-02-2023 21:15:34 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+21-02-2023 21:15:41 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+21-02-2023 21:16:17 : Server cancel movie ticket : ATWC12 : Failed : Tickets Not Cancelled.
+21-02-2023 21:22:10 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+21-02-2023 21:22:22 : Server cancel movie ticket : ATWC12 : Failed : Tickets Not Cancelled.
+21-02-2023 21:25:32 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+21-02-2023 21:26:40 : Server cancel movie ticket : ATWC12 : Success : tickets cancelled successfull
+21-02-2023 21:26:49 : getBookingSchedule : ATWC12 : failed : No bookings found
+21-02-2023 21:35:41 : ServerBookMovieTickets : ATWC12 : Failed : Tickets Not Booked.
+21-02-2023 21:50:52 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+22-02-2023 01:24:40 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+22-02-2023 01:25:17 : Server cancel movie ticket : ATWC12 : Success : tickets cancelled successfull
+22-02-2023 01:25:23 : getBookingSchedule : ATWC12 : failed : No bookings found
+22-02-2023 01:26:13 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+22-02-2023 01:26:18 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+22-02-2023 01:28:16 : Server cancel movie ticket : ATWC12 : Success : tickets cancelled successfull
+22-02-2023 01:28:25 : getBookingSchedule : ATWC12 : failed : No bookings found
+22-02-2023 01:31:26 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+22-02-2023 01:31:50 : Server cancel movie ticket : ATWC12 : Success : tickets cancelled successfull
+22-02-2023 01:32:01 : getBookingSchedule : ATWC12 : failed : No bookings found
+22-02-2023 01:32:26 : ServerBookMovieTickets : ATWC12 : Failed : Tickets Not Booked.
+22-02-2023 01:42:23 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+22-02-2023 01:42:28 : getBookingSchedule : ATWC12 : Success : Booking Schedule found
+22-02-2023 01:42:51 : Server cancel movie ticket : ATWC12 : Success : tickets cancelled successfull
+22-02-2023 01:43:19 : Server cancel movie ticket : ATWC12 : Failed : Tickets Not Cancelled.
+22-02-2023 01:43:25 : getBookingSchedule : ATWC12 : failed : No bookings found
+24-02-2023 17:50:51 : ServerBookMovieTickets : ATWC123 : Success : Tickets Booked.
+24-02-2023 18:22:58 : ServerBookMovieTickets : ATWC10 : Success : Tickets Booked.
+24-02-2023 18:23:53 : ServerBookMovieTickets : ATWC123 : Success : Tickets Booked.
+24-02-2023 18:33:17 : ServerBookMovieTickets : ATWC2 : Success : Tickets Booked.
+24-02-2023 18:39:31 : ServerBookMovieTickets : ATWC123 : Success : Tickets Booked.
+24-02-2023 18:39:55 : getBookingSchedule : ATWC123 : Success : Booking Schedule found
+24-02-2023 18:40:22 : ServerBookMovieTickets : ATWC123 : Success : Tickets Booked.
+24-02-2023 18:41:06 : ServerBookMovieTickets : ATWC123 : Success : Tickets Booked.
+24-02-2023 18:42:22 : Server cancel movie ticket : ATWC123 : Success : tickets cancelled successfull
+13-03-2023 18:22:12 : ServerBookMovieTickets : ATWC123 : Success : Tickets Booked.
+13-03-2023 18:46:46 : ServerBookMovieTickets : ATWC12 : Success : Tickets Booked.
+22-03-2023 20:33:38 : ServerBookMovieTickets : ATWC1098 : Success : Tickets Booked.
+22-03-2023 20:34:12 : Server cancel movie ticket : ATWC1098 : Success : tickets cancelled successfull
+22-03-2023 20:35:55 : ServerBookMovieTickets : ATWC1098 : Success : Tickets Booked.
+22-03-2023 20:36:16 : getBookingSchedule : ATWC1098 : Success : Booking Schedule found

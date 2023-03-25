@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="343.5278458946934" y="586.7471200351295">Server.OutremontServer</node>
+    <node x="-157.30846431603723" y="10.49233714903346">Implementation.implementation</node>
+    <node x="261.32054448521785" y="160.68429851762977">Client.client</node>
+    <node x="204.55048164726685" y="-236.0724077095572">Interfacee.Server_Interface</node>
+    <node x="-157.44777047625547" y="570.9071826971342">Server.VerdunServer</node>
+    <node x="130.47788112421404" y="566.3907385166812">Server.AtwaterServer</node>
+    <node x="-178.99955353289525" y="-220.5618746703199">Interfacee.Client_Interface</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Server.AtwaterServer" target="Implementation.implementation" relationship="CREATE">
+      <point x="1.1887578597225001E-4" y="38.50026148331881" />
+      <point x="206.978" y="671.0" />
+      <point x="21.692" y="671.0" />
+      <point x="4.6431603723107173E-4" y="236.99966285096656" />
+    </edge>
+    <edge source="Implementation.implementation" target="Interfacee.Client_Interface" relationship="REALIZATION">
+      <point x="-39.19108921685802" y="-237.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="Implementation.implementation" target="Interfacee.Server_Interface" relationship="REALIZATION">
+      <point x="139.80891078314198" y="-237.0" />
+      <point x="161.50044646710475" y="-154.0724077095572" />
+      <point x="-179.0" y="0.0" />
+    </edge>
+    <edge source="Server.OutremontServer" target="Implementation.implementation" relationship="CREATE">
+      <point x="-80.99984589469341" y="-1.2003512949831929E-4" />
+      <point x="300.978" y="625.247" />
+      <point x="300.978" y="671.0" />
+      <point x="21.692" y="671.0" />
+      <point x="4.6431603723107173E-4" y="236.99966285096656" />
+    </edge>
+    <edge source="Server.VerdunServer" target="Implementation.implementation" relationship="CREATE">
+      <point x="-2.2952374452245294E-4" y="38.499817302865836" />
+      <point x="-80.948" y="671.0" />
+      <point x="21.692" y="671.0" />
+      <point x="4.6431603723107173E-4" y="236.99966285096656" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.7015086206896551" showDependencies="true" x="202.0" y="227.0" />
+  <SelectedNodes>
+    <node>Server.VerdunServer</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
